@@ -1,0 +1,19 @@
+.container{
+    border: 2px solid black;
+    width: 20rem;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10%;
+    border-radius: 20px;
+    background-color: gray;
+    outline: none;
+    border: none;
+}
+
+.container input{
+    outline: none;
+}
+
+body{
+    background-color: #555;
+}
